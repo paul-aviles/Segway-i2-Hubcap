@@ -1,6 +1,6 @@
 **3‑D‑Printed Segway i2 Hub‑Cap (Replacement)**
 
-Instead of relying on the original insert pins— which tend to break easily—this design uses the factory‑fitted Segway
+Instead of relying on the original insert pins which tend to break easily, this design uses the factory‑fitted Segway
 nuts for alignment and 1.26 in × 1/8 in neodymium disc magnets to hold the cap in place.
 
 **Parts needed:**
